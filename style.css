@@ -13,7 +13,7 @@ body{
 	height: 420px;
 	/*background: #000;*/
 	background: transparent;
-	border: 2px solid white;
+	border: 1px solid white;
 	/*opacity: 0.8;*/
 	opacity: 1;
 	color: #fff;
@@ -40,6 +40,18 @@ h1{
 	padding: 0 0 20px;
 	text-align: center;
 	font-size: 22px;
+}
+.image1{
+	float: left;
+	margin-right: 5px;
+	margin-top: -5px;
+
+} 
+.image2{
+	float:left;
+	margin-left: 3px;
+	margin-right: 5px;
+	margin-top: -5px;
 }
 .loginbox p{
 	margin: 0px;
